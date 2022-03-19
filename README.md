@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Meu nome é <a href="#"><i>Hiqui!</i></a> 😃️</h1>
-  <p align="center">Sou um dev Full-Stack! <"><i></i></a>
+  <p align="center">Sou um dev Full-Stack! <"(:"><i></i></a>
   <a align="rigth"  href="#" target="_blank">
   </a><br>
   <p align="center">Gosto de coodar e fazer novas amizades! 😉️</h2>
@@ -32,7 +32,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
-  <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:henriquejusteraphael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
