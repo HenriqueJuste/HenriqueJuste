@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Meu nome é <a href="#"><i>Hiqui!</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a> e compartilho meu aprendizado no meu canal no <a href="#"><i>YouTube</i></a><span> 👉🏽️</span>
+  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a>
   <a align="rigth"  href="#" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
