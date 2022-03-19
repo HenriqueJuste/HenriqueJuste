@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Meu nome é <a href="#"><i>Hiqui!</i></a> 😃️</h1>
-  <p align="center">Sou um dev Full-Stack! <"(:"><i></i></a>
+  <p align="center">Sou um dev Full-Stack! (:<i></i></a>
   <a align="rigth"  href="#" target="_blank">
   </a><br>
   <p align="center">Gosto de coodar e fazer novas amizades! 😉️</h2>
