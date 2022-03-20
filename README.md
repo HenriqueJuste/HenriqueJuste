@@ -7,14 +7,18 @@
    <p align="center"><strong> > Este é meu perfil < <strong></h2>
 	</div>
   
-  <background src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f53aea0b-70b2-4a33-a433-91effdecef24/df21blm-3bbdd5bd-8f71-4b92-9e66-1b49bbd4aab7.png/v1/fill/w_444,h_250,q_70,strp/century_stars_by_lunarsfalling_df21blm-250t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZjUzYWVhMGItNzBiMi00YTMzLWE0MzMtOTFlZmZkZWNlZjI0XC9kZjIxYmxtLTNiYmRkNWJkLThmNzEtNGI5Mi05ZTY2LTFiNDliYmQ0YWFiNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0D8EZfo945F9TqDINgbVsS9QtGKhcPnTe_ihhs9cJb0">
+ 
 
 <div align="center">
   <a href="#>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
+																		      
+																		   
 </div>
+	
+   <img align="center alt=back src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47413601-05c0-4e0f-aca7-0be211b190ed/dezs5r9-40cf0384-7544-472f-9e7f-9c0196e6c812.jpg/v1/fit/w_414,h_225,q_70,strp/concept_art_by_seteshh_dezs5r9-414w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA3NiIsInBhdGgiOiJcL2ZcLzQ3NDEzNjAxLTA1YzAtNGUwZi1hY2E3LTBiZTIxMWIxOTBlZFwvZGV6czVyOS00MGNmMDM4NC03NTQ0LTQ3MmYtOWU3Zi05YzAxOTZlNmM4MTIuanBnIiwid2lkdGgiOiI8PTE5ODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mx7tSEz1sj5YCoc8az1CtNl9JUB_vMSXHQ0FbOdBsh4">
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
