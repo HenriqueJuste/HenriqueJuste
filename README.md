@@ -4,10 +4,10 @@
   <a align="rigth"  href="#" target="_blank">
   </a><br>
   <p align="center">Gosto de coodar e fazer novas amizades! 😉️</h2>
-   <p align="center"><strong> > Este é meu perfil <strong></h2>
+   <p align="center"><strong> > Este é meu perfil < <strong></h2>
 	</div>
   
-  
+  <background src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f53aea0b-70b2-4a33-a433-91effdecef24/df21blm-3bbdd5bd-8f71-4b92-9e66-1b49bbd4aab7.png/v1/fill/w_444,h_250,q_70,strp/century_stars_by_lunarsfalling_df21blm-250t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZjUzYWVhMGItNzBiMi00YTMzLWE0MzMtOTFlZmZkZWNlZjI0XC9kZjIxYmxtLTNiYmRkNWJkLThmNzEtNGI5Mi05ZTY2LTFiNDliYmQ0YWFiNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0D8EZfo945F9TqDINgbVsS9QtGKhcPnTe_ihhs9cJb0">
 
 <div align="center">
   <a href="#>
