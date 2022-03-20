@@ -4,7 +4,7 @@
   <a align="rigth"  href="#" target="_blank">
   </a><br>
   <p align="center">Gosto de coodar e fazer novas amizades! 😉️</h2>
-   <p align="center"><strong>Esse é meu perfil <strong></h2>
+   <p align="center"><strong>Este é meu perfil <strong></h2>
 </div>
 
 <div align="center">
