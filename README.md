@@ -6,6 +6,36 @@
   <p align="center">Gosto de coodar e fazer novas amizades! 😉️</h2>
    <p align="center"><strong>Este é meu perfil <strong></h2>
 </div>
+  
+  
+  
+  <a href="#" class="myButton">green</a>
+
+.myButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+        
+  
+  
+  
 
 <div align="center">
   <a href="#>
