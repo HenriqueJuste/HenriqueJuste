@@ -18,7 +18,7 @@
 																		   
 </div>
 	
-   <img align="center alt=back src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47413601-05c0-4e0f-aca7-0be211b190ed/dezs5r9-40cf0384-7544-472f-9e7f-9c0196e6c812.jpg/v1/fit/w_414,h_225,q_70,strp/concept_art_by_seteshh_dezs5r9-414w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA3NiIsInBhdGgiOiJcL2ZcLzQ3NDEzNjAxLTA1YzAtNGUwZi1hY2E3LTBiZTIxMWIxOTBlZFwvZGV6czVyOS00MGNmMDM4NC03NTQ0LTQ3MmYtOWU3Zi05YzAxOTZlNmM4MTIuanBnIiwid2lkdGgiOiI8PTE5ODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mx7tSEz1sj5YCoc8az1CtNl9JUB_vMSXHQ0FbOdBsh4">
+   <img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47413601-05c0-4e0f-aca7-0be211b190ed/dezs5r9-40cf0384-7544-472f-9e7f-9c0196e6c812.jpg/v1/fit/w_414,h_225,q_70,strp/concept_art_by_seteshh_dezs5r9-414w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA3NiIsInBhdGgiOiJcL2ZcLzQ3NDEzNjAxLTA1YzAtNGUwZi1hY2E3LTBiZTIxMWIxOTBlZFwvZGV6czVyOS00MGNmMDM4NC03NTQ0LTQ3MmYtOWU3Zi05YzAxOTZlNmM4MTIuanBnIiwid2lkdGgiOiI8PTE5ODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mx7tSEz1sj5YCoc8az1CtNl9JUB_vMSXHQ0FbOdBsh4">
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
